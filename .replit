@@ -1,0 +1,4 @@
+run = "php chirper/artisan serve"
+
+[nix]
+channel = "stable-22_11"
